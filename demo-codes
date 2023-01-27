@@ -4,7 +4,7 @@ public class Arithmetic
     public static void main(String[] args)
     {
         Arithmetic arithmetic = new Arithmetic();
-        arithmetic.add(1, 3);
+        arithmetic.add(1,3);
         arithmetic.sub(4,2);
         arithmetic.mul(4,6);
         arithmetic.div(6,2);
