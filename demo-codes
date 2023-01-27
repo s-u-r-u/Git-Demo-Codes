@@ -5,11 +5,11 @@ public class Arithmetic
     {
         Arithmetic arithmetic = new Arithmetic();
         arithmetic.add(1, 3);
-        arithmetic.sub(3,2);
+        arithmetic.sub(4,2);
         arithmetic.mul(3,6);
         arithmetic.div(6,2);
         System.out.println("Addition of 1 and 3 =" + arithmetic.add(1, 3));
-        System.out.println("Substraction of 3 by 2 =" + arithmetic.sub(3, 2));
+        System.out.println("Subtraction of 4 by 2 =" + arithmetic.sub(4, 2));
         System.out.println("Multiplication of 3 and 6 =" + arithmetic.mul(3, 6));
         System.out.println("Division of 6 by 2 =" + arithmetic.div(6, 2));
     }
